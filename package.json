@@ -1,0 +1,20 @@
+{
+  "name": "github-scraper",
+  "version": "1.0.0",
+  "description": "scrap github readme files of any user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "html-pdf": "^3.0.1",
+    "html-to-pdf": "^0.1.11",
+    "markdown": "^0.5.0",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}
